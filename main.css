@@ -62,11 +62,14 @@ footer {
 	opacity: .9;
 }
 
-footer h5,
-h2 {
+footer h5 {
 	color: inherit;
 	text-shadow: none;
 	font-weight: 400;
+}
+
+footer h2 {
+	text-shadow: none;
 }
 
 footer .container-fluid {
@@ -153,6 +156,7 @@ span img {
 	width: 100%;
 	padding: 0.75rem 1.25rem;
 }
+
 .card-header {
 	margin-top: 15px;
 	padding: 0;
@@ -488,6 +492,9 @@ span img {
 	.carousel-caption {
 		top: 40%;
 	}
+	.btn {
+		font-size: 0.8rem;
+	}
 
 	.carousel-caption h1 {
 		font-size: 250%;
@@ -515,12 +522,6 @@ span img {
 
 	.img-resize {
 		width: 80%;
-	}
-}
-
-@media (max-width: 455px) {
-  .btn {
-	  font-size: 0.8rem;
 	}
 }
 
