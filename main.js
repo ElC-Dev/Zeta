@@ -36,7 +36,7 @@ $("form").on("submit", function() {
 
 	/* Passed! */
 	/* Forms in snippets won't submit so ... */
-	/* alert("Mensagem enviada com sucesso!");
+	/* alert("Mensagem enviada com sucesso!"); */
 });
 
 // formspree
