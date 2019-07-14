@@ -518,6 +518,12 @@ span img {
 	}
 }
 
+@media (max-width: 455px) {
+  .btn {
+	  font-size: 0.9rem
+	}
+}
+
 /*---Firefox Bug Fix --*/
 .carousel-item {
 	transition: -webkit-transform 0.5s ease;
