@@ -167,6 +167,7 @@ span img {
 .card:nth-of-type(even) .card-header {
 	background-color: rgba(90, 88, 233, 0.726);
 }
+
 .carousel-inner img {
 	/* display: block; */
 	height: 100%;
@@ -244,6 +245,10 @@ span img {
 
 .img-resize {
 	width: 50%;
+}
+
+.img-resize-med {
+	max-width: 93%;
 }
 
 .jumbotron {
@@ -442,6 +447,7 @@ span img {
 	.card-img-top .img-resize {
 		width: 100%;
 	}
+
 	.carousel-inner > .carousel-item {
 		height: 670px;
 	}
@@ -532,6 +538,9 @@ span img {
 
 	.img-resize {
 		width: 80%;
+	}
+	.img-resize-med {
+		max-width: 100%;
 	}
 }
 
