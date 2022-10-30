@@ -33,7 +33,7 @@ body {
 }
 
 .jumbotron h1 {
-	color: #7C81B8;
+	color: #F4825A;
 }
 
 h1 {
@@ -180,6 +180,7 @@ span img {
 	position: absolute;
 	top: 50%;
 	transform: translateY(-40%);
+	color: 343953;
 }
 
 .carousel-caption h1 {
