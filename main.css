@@ -42,6 +42,10 @@ h1 {
 		2px 3px 1px #eeeeee, 4px 3px 1px #cccccc, 3px 4px 1px #eeeeee, 5px 4px 1px #cccccc, 4px 5px 1px #eeeeee,
 		6px 5px 1px #cccccc, 5px 6px 1px #eeeeee, 7px 6px 1px #cccccc;
 }
+h1 .display-2 {
+	color: #F4825A;
+}
+
 h2 {
 	color: #343953;
 	font-weight: 600;
@@ -51,6 +55,9 @@ h2 {
 		6px 5px 1px #cccccc, 5px 6px 1px #eeeeee, 7px 6px 1px #cccccc;
 }
 
+h3 .carousel-inner {
+	color: #CDD2FF;
+}
 h5 {
 	font-weight: 600;
 	color: #090e3d;
