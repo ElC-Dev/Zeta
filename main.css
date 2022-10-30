@@ -51,13 +51,16 @@ h2 {
 		2px 3px 1px #eeeeee, 4px 3px 1px #cccccc, 3px 4px 1px #eeeeee, 5px 4px 1px #cccccc, 4px 5px 1px #eeeeee,
 		6px 5px 1px #cccccc, 5px 6px 1px #eeeeee, 7px 6px 1px #cccccc;
 }
+h3 {
+	color: #343953;
+}
 
 h5 {
 	font-weight: 600;
 	color: #090e3d;
 }
 p {
-	color: 41464B;
+	color: #41464B;
 }
 footer {
 	background-color: #262a35;
