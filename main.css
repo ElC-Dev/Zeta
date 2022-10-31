@@ -522,8 +522,8 @@ span img {
 		max-width: 275px !important;
 		margin-right -25px !important;
 	}
-	.nav-toggler {
-		font-size: .8rem !important;
+	.navbar-toggler-icon {
+		font-size: .8em !important;
 }
 @media (max-width: 576px) {
 	.card-img-top .img-resize {
