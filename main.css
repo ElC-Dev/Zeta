@@ -550,6 +550,9 @@ span img {
 	.display-4 {
 		font-size: 160%;
 	}
+	h2 {
+		font-size: 160%;
+	}
 
 	.img-resize {
 		width: 80%;
