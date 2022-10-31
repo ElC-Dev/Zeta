@@ -524,7 +524,6 @@ span img {
 	}
 	.navbar-toggler-icon {
 		font-size: .8rem !important;
-		position: absolute;
 }
 @media (max-width: 576px) {
 	.card-img-top .img-resize {
