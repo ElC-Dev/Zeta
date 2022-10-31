@@ -520,7 +520,7 @@ span img {
 	}
 	.smallerbrand {
 		max-width: 275px !important;
-		margin-right 30px !important;
+		margin-right -30px !important;
 	}
 }
 @media (max-width: 576px) {
