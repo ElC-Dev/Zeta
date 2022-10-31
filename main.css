@@ -112,7 +112,8 @@ span img {
 }
 
 .ch3 {
-	color: #CDD2FF !important;
+	font-weight: 700;
+	color: #74A3FF;
 }
 .navbar {
 	padding: .8rem;
