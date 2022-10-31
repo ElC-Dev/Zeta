@@ -516,11 +516,11 @@ span img {
 		width: 60%;
 	}
 	.img-responsive {
-		max-width: 50%;
+		max-width: 85%;
 	}
 	.smallerbrand {
 		max-width: 275px !important;
-		margin-right -30px !important;
+		margin-right -25px !important;
 	}
 }
 @media (max-width: 576px) {
@@ -567,13 +567,8 @@ span img {
 	.img-resize-med {
 		max-width: 100%;
 	}
-	.img-responsive {
-		max-width: 30% !important;
-		margin-right: -25px !important;
-	}
-	.navbar-toggler {
-		max-width: 20%;
-	}
+
+
 }
 
 /*---Firefox Bug Fix --*/
