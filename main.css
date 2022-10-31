@@ -116,7 +116,7 @@ span img {
 	color: #CED6FF;
 }
 .pb-1 {
-	color: F4825A;
+	color: F4825A !important;
 }
 .navbar {
 	padding: .8rem;
