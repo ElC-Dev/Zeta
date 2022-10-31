@@ -55,7 +55,7 @@ h2 {
 		6px 5px 1px #cccccc, 5px 6px 1px #eeeeee, 7px 6px 1px #cccccc;
 }
 
-.carousel-item > h3 {
+h3 > .carousel-item {
 	color: #CDD2FF;
 }
 h5 {
