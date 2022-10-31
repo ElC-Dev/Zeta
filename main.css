@@ -563,6 +563,9 @@ span img {
 	.img-responsive {
 		max-width: 70%;
 	}
+	.navbar-toggler {
+		max-width: 30%;
+	}
 }
 
 /*---Firefox Bug Fix --*/
