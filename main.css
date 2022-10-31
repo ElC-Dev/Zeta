@@ -518,6 +518,9 @@ span img {
 	.img-responsive {
 		max-width: 50%;
 	}
+	.smallerbrand {
+		max-width: 275px !important;
+	}
 }
 @media (max-width: 576px) {
 	.card-img-top .img-resize {
