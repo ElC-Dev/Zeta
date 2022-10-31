@@ -513,7 +513,10 @@ span img {
 	}
 
 	.img-resize {
-		width: 70%;
+		width: 60%;
+	}
+	.img-responsive {
+		max-width: 50%;
 	}
 }
 @media (max-width: 576px) {
@@ -561,10 +564,10 @@ span img {
 		max-width: 100%;
 	}
 	.img-responsive {
-		max-width: 70%;
+		max-width: 40%;
 	}
 	.navbar-toggler {
-		max-width: 30%;
+		max-width: 20%;
 	}
 }
 
