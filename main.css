@@ -560,6 +560,9 @@ span img {
 	.img-resize-med {
 		max-width: 100%;
 	}
+	.img-responsive {
+		max-width: 70%;
+	}
 }
 
 /*---Firefox Bug Fix --*/
