@@ -564,7 +564,8 @@ span img {
 		max-width: 100%;
 	}
 	.img-responsive {
-		max-width: 40% !important;
+		max-width: 30% !important;
+		margin: -25px !important;
 	}
 	.navbar-toggler {
 		max-width: 20%;
