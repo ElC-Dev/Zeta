@@ -265,6 +265,9 @@ span img {
 	width: 50%;
 }
 
+.img-resize-small {
+	max-width: 75%;
+}
 .img-resize-med {
 	max-width: 93%;
 }
