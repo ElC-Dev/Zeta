@@ -94,9 +94,7 @@ footer .hiddenli:hover {
 	transition: .3s;
 	font-style: none;
 }
-footer > h2 {
-	color: #fff;
-}
+
 hr.light {
 	border-top: 1px solid #9b9b9b;
 	width: 100%;
@@ -170,7 +168,9 @@ span img {
 .carousel-inner .btn {
 	opacity: 0.7;
 }
-
+.footer-header {
+	color: #fff;
+}
 .mb-0 > button {
 	display: inline-block;
 	width: 100%;
