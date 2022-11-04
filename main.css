@@ -94,7 +94,9 @@ footer .hiddenli:hover {
 	transition: .3s;
 	font-style: none;
 }
-
+footer > h2 {
+	color: #fff;
+}
 hr.light {
 	border-top: 1px solid #9b9b9b;
 	width: 100%;
