@@ -275,7 +275,7 @@ span img {
 }
 
 .icon-margin {
-	margin-bottom: 50px;
+	paddding-top: 25px;
 	color: #ebe9e9; !important
 }
 .jumbotron {
